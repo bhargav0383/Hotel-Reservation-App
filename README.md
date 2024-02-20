@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.6.
 
-This website allows users to effortlessly create appointments, display them neatly, and conveniently delete any unwanted appointments. Made using Data-binding and Local Storage.
+This website allows users to effortlessly create new bookings, display the previous bookings neatly, can edit bookings and conveniently delete any unwanted bookings. Made using Data-binding, Local Storage, Services, Forms and routing.
 
 
 ## Website view
