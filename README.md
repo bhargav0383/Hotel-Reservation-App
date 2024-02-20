@@ -20,7 +20,7 @@ The form has validation checkings using VAlidators and ValidatorFn, like input s
 
 We have displayed all the previous reservation stored in local storage using  CRUD services. We have actions buttons to edit or delete a particular reservation. 
 
-![Screenshot 2024-02-20 233039](https://github.com/bhargav0383/Hotel-Reservation-App/assets/102506024/33159100-7566-4eb9-8351-2e6f6095b825)
+![Screenshot 2024-02-20 234824](https://github.com/bhargav0383/Hotel-Reservation-App/assets/102506024/035a7b3b-6eb7-40bb-9ecf-e7438a0e74e2)
 
 ### VIEW 3: Edit booking details.
 
