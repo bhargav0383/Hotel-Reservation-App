@@ -10,7 +10,25 @@ This website allows users to effortlessly create new bookings, display the previ
 
 ## Website view
 
-![Screenshot 2024-02-12 015432](https://github.com/bhargav0383/Appointment-App/assets/102506024/f0750ebb-26d6-4e63-aee7-26393328f26e)
+VIEW 1: Booking a new reservation.
+
+The form has validation checkings using VAlidators and ValidatorFn, like input should not be empty, email input must be of input type and mainly check-out date has to be after the check-in date.
+
+![Screenshot 2024-02-20 233018](https://github.com/bhargav0383/Hotel-Reservation-App/assets/102506024/6c0a5554-9213-4b56-80ae-45ca666f7b8e)
+
+VIEW 2: Viewing Reservation List.
+
+We have displayed all the previous reservation stored in local storage using  CRUD services. We have actions buttons to edit or delete a particular reservation. 
+
+![Screenshot 2024-02-20 233039](https://github.com/bhargav0383/Hotel-Reservation-App/assets/102506024/33159100-7566-4eb9-8351-2e6f6095b825)
+
+VIEW 3: Edit booking details.
+
+On clicking edit it will take to booking page but, using the id of booking we will show the details already and can be editable.
+
+![Screenshot 2024-02-20 233101](https://github.com/bhargav0383/Hotel-Reservation-App/assets/102506024/576dd6cd-3263-4ece-84a6-72ff1f258b23)
+
+
 
 ## Development server
 
