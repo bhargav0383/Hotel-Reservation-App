@@ -24,7 +24,7 @@ We have displayed all the previous reservation stored in local storage using  CR
 
 VIEW 3: Edit booking details.
 
-On clicking edit it will take to booking page but, using the id of booking we will show the details already and can be editable.
+On clicking edit it will take to booking page but, using the id of booking we will show the details already and can be editable. After editing we can see the updated details in VIEW 2.
 
 ![Screenshot 2024-02-20 233101](https://github.com/bhargav0383/Hotel-Reservation-App/assets/102506024/576dd6cd-3263-4ece-84a6-72ff1f258b23)
 
